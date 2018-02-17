@@ -1,0 +1,10 @@
+Sergio Julian Castro Carrera
+Proyecto final Drive-me
+fecha de inicio:04/10/2017
+fecha de termino:04/12/2017
+
+Informacion de proyecto
+
+usuario administrador= sergio, password= 1234
+base de datos utilizada database.sql
+pagina principal= driveme.php

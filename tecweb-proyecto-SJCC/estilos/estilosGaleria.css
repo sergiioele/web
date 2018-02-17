@@ -1,0 +1,36 @@
+﻿#congelenral3
+{
+	height:3000px;
+}
+#galery
+{
+	width:90%;
+	margin:auto;
+	border:2px aqua groove;
+	background-color:#F4A460;
+}
+#galery th
+{
+	text-align:center;
+	border:2px black dashed;
+	background-color:#003352;
+	color:white;
+	font-size:1.2em;
+}
+#galery img
+{
+	position:relative;
+	width:400px;
+}
+#galery p
+{
+	text-align:center;
+	font-size:2em;
+	font-weight:bold;
+}
+#galery td
+{
+	text-align:center;
+	border:2px black dashed;
+
+}

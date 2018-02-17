@@ -1,0 +1,45 @@
+﻿#seccionusuarios
+{
+	width:74.8%;
+	height:600px;
+	margin:0px;
+	padding:0px;
+	float:left;
+	//border:1px solid red;
+	background-image:url('../imagenes/VW_Polo_GTI_05.jpg');
+}
+#tablaU
+{
+	
+	width:100%;
+	height:300px;
+	//border:1px solid black;
+	//border:1px aqua dashed;
+	float:left;
+	background-image:url('../imagenes/VW_Polo_GTI_05.jpg');
+}
+#AccUsuarios
+{
+	width:100%;
+	height:600px;
+	//border:1px solid black;
+	//float:right;
+	border:1px aqua dashed;
+}
+#seccionusuarios
+{
+	background-color:#272729;
+}
+#tablaU
+{
+	background-color:#272729;
+	width:100%;
+}
+#tablaU p
+{
+	text-align:center;
+	color:yellow;
+	font-family:"Britannic Bold";
+	font-size:1.5em;
+	margin:0px;
+}
